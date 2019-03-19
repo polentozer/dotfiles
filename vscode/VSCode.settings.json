@@ -1,0 +1,46 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.minimap.enabled": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "editor.rulers": [
+        100
+    ],
+    "cSpell.userWords": [
+        "ACIES",
+        "Markus",
+        "PCRs",
+        "POSIX",
+        "Phusion",
+        "Tadej",
+        "Yarrowia",
+        "aminoacid",
+        "bcrypt",
+        "docx",
+        "endblock",
+        "fasta",
+        "gmail",
+        "lipolytica",
+        "mkdir",
+        "plasmids",
+        "polentozer",
+        "polymerases",
+        "resuspend",
+        "strtobool",
+        "xlsx"
+    ],
+    "latex-workshop.latex.autoBuild.onSave.enabled": false,
+    "python.pythonPath": "python3",
+    "python.venvPath": "~/Projects/virtualenvs",
+    "window.zoomLevel": 0,
+    "editor.renderControlCharacters": false,
+    "workbench.colorTheme": "Predawn",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.colorCustomizations": {},
+    "materialTheme.accent": "Remove accents",
+    "[html]": {
+        "editor.tabSize": 2,
+    }
+}
